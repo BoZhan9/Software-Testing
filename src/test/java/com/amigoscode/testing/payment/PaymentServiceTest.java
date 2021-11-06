@@ -1,5 +1,6 @@
 package com.amigoscode.testing.payment;
 
+import com.amigoscode.testing.customer.Customer;
 import com.amigoscode.testing.customer.CustomerRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
