@@ -25,4 +25,5 @@ public class CustomerRegistrationController {
         customerRegistrationService.registerNewCustomer(request);
     }
 
+
 }
